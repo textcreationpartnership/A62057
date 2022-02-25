@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony for the Lord by John Swinton.</title>
+            <author>Swinton, John, 1621?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62057</idno>
+            <idno type="STC">Wing S6287</idno>
+            <idno type="STC">ESTC R6468</idno>
+            <idno type="EEBO-CITATION">12192752</idno>
+            <idno type="OCLC">ocm 12192752</idno>
+            <idno type="VID">55912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 899:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony for the Lord by John Swinton.</title>
+                  <author>Swinton, John, 1621?-1679.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:55912:1"/>
+            <pb n="1" facs="tcp:55912:1" rendition="simple:additions"/>
+            <head>A TESTIMONY FOR THE LORD, BY John Swinton.</head>
+            <opener>
+               <salute>To all the World, to whom theſe ſhall come; Greeting.</salute>
+            </opener>
+            <div type="part">
+               <p>KNow ye, that the deſpiſed, contemned, re<g ref="char:EOLhyphen"/>proached People called <hi>Quakers, are of God,</hi> and that the whole World <hi>lies in wick<g ref="char:EOLhyphen"/>edneſs,</hi> that are not in Union with <hi>that</hi> which is their Life; the <hi>one thing neceſſary</hi> to be contended for, minded, heeded, loved, obeyed, followed, ſub<g ref="char:EOLhyphen"/>mitted to, known, acknowledged; even the <hi>King<g ref="char:EOLhyphen"/>dom of God,</hi> the <hi>Spirit,</hi> the <hi>Light within,</hi> the <hi>meaſure of the Manifeſtation, given to profit withal,</hi> what is to be <hi>Known of God</hi> ſo as to be retained: In whom the
+<pb n="2" facs="tcp:55912:2" rendition="simple:additions"/> 
+                  <hi>fear</hi> and <hi>love</hi> of the living God, as he is known a God near at hand, his righteouſneſs brought near, is up<g ref="char:EOLhyphen"/>permoſt in their inward parts, exerciſing a Conſci<g ref="char:EOLhyphen"/>ence according to their meaſure free and void of of<g ref="char:EOLhyphen"/>fence towards God and man in all things, even in thoſe things, wherein the exacteſt obſerver from without, cannot charge them; and ſo are ſincere, ſtreight, ſimple, and ſingle, in the ſpirits of their minds, they being in Union with the Spirit of Truth, <hi>it leads them into all Truth,</hi> and the love of true things.</p>
+               <p>Now Friends, who ever are in Union with the Spirit, in whom the <hi>Life of God</hi> is in a meaſure in the <hi>dominion,</hi> and according to the meaſure of the manifeſtation of it, are <hi>ſimple</hi> and <hi>faithful</hi> to what they know, the <hi>fear</hi> of the living God, <hi>that</hi> maketh the heart <hi>clean,</hi> having in a meaſure taken place in them; We have a boſom for ſuch, though the day be not ſo far opened in them as clearly to give them the underſtanding of all things, that in due time they may come to know, as the night from the day ſhall come to a clear ſeparation in them, out of the mixture; Men from Trees, Friends from Enemies, at home and abroad. And though ſuch know not clearly what to attribute their ſtrength, to their ſtanding, that whereunto they have attained, and ſo may be ready to give away their ſtrength, not diſtinctly knowing the hand that leadeth, feedeth, preſerveth, and ſo may be ready to give the glory to another in words, thorow t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> darkneſs and confuſion not yet diſpel<g ref="char:EOLhyphen"/>led; Yet notwithſtanding, who are in the Spirit of diſcerning, in the feeling Life, and know Subjection thereto, feeling the ſimplicity at bottom, the Seed
+<pb n="3" facs="tcp:55912:2" rendition="simple:additions"/> that breaths towards the living God, that groans to be delivered from all yoaks and bonds; For ſuch I ſay they can have a boſom, a tenderneſs, and are to be exerciſed in much patience, love and forbearance, even though ſuch as through the weakneſs that may lie near, and the prejudices that the enemy there<g ref="char:EOLhyphen"/>thorow may have gotten an entrance by, cannot own the <hi>Quakers,</hi> their Practiſes and Principles; nor that one Principle which is indeed their <hi>All, The Light within;</hi> As they in the mixture, thorow the darkneſs, ſtill in them, do underſtand them, or it: For this know all of you, that the <hi>Quakers</hi> Life is not in Forms, nor Words, nor Practiſes, nor Notions, nor Comprehenſions, nor Attainments abſtracted from, out from the Spirit, the Light, the Life, the Sub<g ref="char:EOLhyphen"/>ſtance, the eternal living Word, which is indeed their <hi>All,</hi> and the <hi>Sum</hi> of their Religion; without which they are nothing, but ready to dye, and faint, and wither; the Power, Preſence, and Dominion of the living God in them, being the <hi>Sum</hi> of all. And though they be found in Forms, in Words, in Actions, in Notions, (as they may be accounted) in Comprehenſions, in Attainments; They deny, they diſown all ſuch, as the Life, the Power is not the Original of, in opening and leading into, and pre<g ref="char:EOLhyphen"/>ſerving therein; ſo as they are to die to all theſe things; The Life, the Power, to come over all, and theſe to be no otherwayes minded, owned, ſtood in, but in the leadings of the Life, and in obedience thereunto; ſo that all theſe things, or any of them, in a way of imitation entred into out of the Life, is diſ<g ref="char:EOLhyphen"/>owned, or though entred into in a meaſure of the
+<pb n="4" facs="tcp:55912:3" rendition="simple:additions"/> ſimplicity and leadings of the Power, yet the mind falling ſhort of the Mark, the Subſtance, found in the Form, in the exacteſt Form of ſound Words and Practiſes, out from the Power, erred therefrom, is diſowned by that People: So that though they can own theſe things in their place, and the teſtimony thereof, being that of the day, in which the leadings of the innocent Life, the Children of the Family, are led in croſs to the Wiſdom and Spirit of this World, that doth and ſhall come to nought; yet their Union can onely be with them, as they are found in Union with the Life; that in the Power and Dominion in them, they holding faſt the Head, elſe nothing but a dead Carcaſs.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>Friends,</salute>
+               </opener>
+               <p>Know the Day is dawned, the Spirit is felt and witneſſed that giveth a ſound, a certain, a clear, a thorow underſtanding of ſpirits, of things that differ: So that nothing can be hid in this day that is come and coming with power and great glory. Oh! where will the Hypocrite hide his head? and where may the Sinner appear? Oh! the miſery! the an<g ref="char:EOLhyphen"/>guiſh! the deſolation! the ſorrow of the mind in this day, joyned, glewed to Idols of Fleſh or Spirit! Bleſſed, bleſſed are the ſincere in heart, for ſuch are, (will be) ready to give up the enemy, to hide no<g ref="char:EOLhyphen"/>thing. Deliverance, Preſervation, to be ſet Free, and kept Free for ever, being the Mark, the Prize they aim at. Ah! bleſſed is that People whoſe God the Lord is, who dwell, abide in the Light that
+<pb n="5" facs="tcp:55912:3" rendition="simple:additions"/> maketh manifeſt, and whoſe covering is in the pre<g ref="char:EOLhyphen"/>ſence from which nothing can be hid.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>The Sum of the <hi>Quakers</hi> Religion is no more, nor no leſs than this, <hi>That there is no Salvation without be<g ref="char:EOLhyphen"/>ing born again; without the New Birth, no entring into the Kingdom; and who are ſo born, are led by the Spirit.</hi> So to know, feel, poſſeſs this Birth, walk by this Rule only, is the <hi>Sum of all.</hi>
+               </p>
+               <p>Friends, You who are looking abroad in this day, to the Hills and the Mountains to cover you. As alſo you that look for <hi>Changes</hi> and <hi>Revolutions;</hi> Can ye be hid in this day? Can ye be delivered, while your Mallady, your Diſeaſe, that which diſ<g ref="char:EOLhyphen"/>eaſeth you, lies wholly onely inward? Can any thing cover you from the preſence of the Lamb, whom you have offended, burdened, pierced? Can any thing relieve you from your <hi>Bonds,</hi> your <hi>Oppreſſors,</hi> but he whom you have oppreſſed and pierced? Oh! that you could conſider this, in this your day, that you might mourn bitterly, and come under judge<g ref="char:EOLhyphen"/>ment, that a covering you might know, that is large, is not too narrow; and <hi>Victory, Redemption, Delive<g ref="char:EOLhyphen"/>rance,</hi> you might witneſs, from all your <hi>Enemies,</hi> to ſerve the <hi>Living God,</hi> in the Newneſs of the <hi>Spirit</hi> without fear<g ref="char:punc">▪</g> For while you are not in the Bleſſing, that to which the Bleſſings belong, what can cover<g ref="char:EOLhyphen"/>ings, deliverances prove but a Snare, a Curſe to you, plague you, and ſeal up your judgement yet more? And this know all of you, and it is the <hi>Word</hi> of the <hi>Lord</hi> to all of you that look out in this day, under
+<pb n="6" facs="tcp:55912:4" rendition="simple:additions"/> what Form or Denomination ſoever you be; That which looks out in you in this day is for the <hi>Fire,</hi> and who ever thinks to be covered, preſerved, delivered by any covering, any arm, but that of the <hi>Spirit,</hi> and of the Lord onely, that mind ſhall ſuffer loſs, they ſhall be filled with <hi>confuſion,</hi> and <hi>diſappointment,</hi> and <hi>death,</hi> and <hi>wo,</hi> and <hi>miſery,</hi> and <hi>deſolation,</hi> and <hi>anguiſh,</hi> to ſuch as ſhall tenatiouſly adhere thereon, they ſhall be abundantly filled with the Fruit of their own way, till they reel and ſtagger, fall, and never riſe again; and that which is, ſhall be a covering, a deliverance to the poor, ſhall be their <hi>Curſe,</hi> their <hi>Torment,</hi> their <hi>Vexation</hi> and <hi>Diſappointment</hi> for ever. This is the Word of the Lord God to all; He that hath an ear to hear, let him hear, yea, it is ſo, whe<g ref="char:EOLhyphen"/>ther you will hear or forbear.</p>
+               <p>Rejoyce ye Lambs, ye little ones, ye ſingle-hear<g ref="char:EOLhyphen"/>ted, whoſe Portion the Lord God is, you know the Covering, you witneſs the Deliverance, you ſee the day of Gladneſs and Rejoycing; <hi>The Valley of</hi> Achor <hi>for a door of Hope, is given you;</hi> you ſing in the val<g ref="char:EOLhyphen"/>ley, you ſee through the Clouds, you are where none can annoy you; Dear Loves, keep you there for ever, and look not out, and dwell on the peace, the Liberty, the Freedom, none can take from you.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>A Lamentation, a lamentation, a lamentation, in the Life, over the Seed, the oppreſſed Seed.</p>
+               <p>Oh, oh! how ſhall <hi>Jacob</hi> ariſe, for he is ſmall? Oh! how ſhall <hi>Jacob</hi> ariſe, for he is ſmall, and the
+<pb n="7" facs="tcp:55912:4" rendition="simple:additions"/> Mountains and Hills are high and weighty, and the Rubbiſh, the rubbiſh, the rubbiſh is great.</p>
+               <p>Put on, put on thy ſtrength O Arm of the Lord, that the Mountains may flow down at thy preſence, and the little Hills may flock together, and thy Mountain may ariſe, ſtand over, ſhew it ſelf over all; Verily, verily, verily, it ſhall do ſo, the Mouth of the Lord of Hoſts hath ſpoken it. I have heard it once, often and again, the whole, the whole, the whole earth ſhall not hinder it; verily, the whole earth ſhall not hinder it; if any thing could, though it may for a ſeaſon let, it ſhould be the deviſions of <hi>Reuben,</hi> but nothing ſhall hinder; the time, the ſet time is come, the rubbiſh, the rubbiſh ſhall be remo<g ref="char:EOLhyphen"/>ved; the Glory ſhall ariſe, flow down, ſhow it ſelf over all, and that which will not bow, ſhall be bro<g ref="char:EOLhyphen"/>ken with an everlaſting perpetual breach; the mouth of the Lord of Hoſts hath ſpoken it; yea verily he hath ſpoken it, and will perform it in due time.</p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
